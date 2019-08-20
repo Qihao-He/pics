@@ -1,5 +1,5 @@
 name: pics
-description: A new Flutter project.
+description: A new Flutter project. Floating action button onPressed, get a image form URL and display below the previous ones, scrollerable.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
